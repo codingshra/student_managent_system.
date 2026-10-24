@@ -1,16 +1,13 @@
-# Student Management System
+# Expense Tracker 💰
 
-# Project Description
-
-A simple Student Management System built using Python and SQLite to store and manage student information.
+A simple Expense Tracker built using Python and SQLite to record and manage daily expenses.
 
 # Features
 
-- Add student details
-- View all students
-- Search students by ID
-- Update student information
-- Delete student records
+- Add expenses with name, category, date, and amount.
+- View all recorded expenses.
+- Calculate total expenses.
+- Store data permanently using SQLite.
 
 # Technologies Used
 
@@ -20,18 +17,15 @@ A simple Student Management System built using Python and SQLite to store and ma
 # How to Run
 
 1. Install Python.
-
-2. Download or clone this repository.
-
+2. Download or clone this project.
 3. Open the project folder in VS Code.
+4. Run the following command:
 
-4. Run the following command in the terminal:
-   
-   "python student_management.py"
+python main.py
 
 # Database
 
-SQLite is used to store student information in a database.
+SQLite automatically creates an "expenses.db" file to store expense records.
 
 # Author
 
