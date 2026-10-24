@@ -1,28 +1,38 @@
-# student_managent_system.
-a simple student management system using python.
-# Description
+# Student Management System
 
-A simple student management system using Python.
+# Project Description
+
+A simple Student Management System built using Python and SQLite to store and manage student information.
+
+# Features
+
+- Add student details
+- View all students
+- Search students by ID
+- Update student information
+- Delete student records
 
 # Technologies Used
 
 - Python
-- VS Code
-- Git
-- GitHub
-
-# Features
-
-- Store student details
-- Display student information
-- Manage student marks
+- SQLite
 
 # How to Run
 
 1. Install Python.
-2. Open the project folder in VS Code.
-3. Run your Python file in the terminal.
+
+2. Download or clone this repository.
+
+3. Open the project folder in VS Code.
+
+4. Run the following command in the terminal:
+   
+   "python student_management.py"
+
+# Database
+
+SQLite is used to store student information in a database.
 
 # Author
 
-CodingShra
+codingshra
